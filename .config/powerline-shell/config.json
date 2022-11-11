@@ -1,0 +1,14 @@
+{
+  "segments": [
+    "virtual_env",
+
+    
+    "ssh",
+    "cwd",
+    "git",
+    "hg",
+    "jobs",
+    "root"
+  ],
+  "theme": "~/powerline-shell/powerline_shell/themes/default.py"
+}

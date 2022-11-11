@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/home/sumou1011/rust_projects/playground/src'
+let g:netrw_dirhist_4='/home/sumou1011/rust_projects/playground'
+let g:netrw_dirhist_3='/home/sumou1011/rust_projects'
+let g:netrw_dirhist_2='/home/sumou1011'
+let g:netrw_dirhist_1='/home/sumou1011/rust_projects'
