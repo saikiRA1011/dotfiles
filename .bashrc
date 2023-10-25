@@ -121,4 +121,5 @@ eval "$(oh-my-posh --init --shell bash --config ~/.oh-my-posh/themes/my-theme.om
 . "$HOME/.cargo/env"
 alias vim="nvim"
 
-sudo ip link set dev eth0 mtu 1400 # これをしておかないと通信系がうまくいかなかったりする
+export LESS='-R' export LESS='-R'
+export LESSOPEN='| /usr/share/source-highlight/src-hilite-lesspipe.sh %s'
